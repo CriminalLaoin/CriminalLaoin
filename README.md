@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/CriminalLaoin/CL/main/Bloddy-Girl.gif" width="30%" height="auto"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/CriminalLaoin/CL/main/Anime-Girl-Eye.gif" width="30%" height="auto"/></p>
 
 <h1 align="center">Hi, I'm Criminal Laoin</h1>
 <h3 align="center">A passionate frontend developer from Türkiye/Azerbaycan</h3>
