@@ -6,6 +6,7 @@
 <center>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=56FF16&width=435&lines=Criminal+Laoin" alt="Typing SVG" />
 <center>
+  
 - 📫 How to reach me **criminal.laoin@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
