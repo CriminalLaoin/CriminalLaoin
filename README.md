@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Criminal Laoin</h1>
+<h1 align="center">Hi , I'm Criminal Laoin</h1>
 <h3 align="center">A passionate frontend developer from Türkiye/Azerbaycan</h3>
 
 - 📫 How to reach me **criminal.laoin@protonmail.com**
