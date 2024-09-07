@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/CriminalLaoin/CL/main/Anime-Girl-Eye.gif" width="37%" height="auto"/></p>
 
-<h1 align="center">Hi, I'm Criminal Laoin</h1>
+<h1 align="center">Hi, I'm</h1><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=56FF16&width=435&lines=Criminal+Laoin" alt="Typing SVG" />
 <h3 align="center">A passionate frontend developer from Türkiye/Azerbaycan</h3>
 
 - 📫 How to reach me **criminal.laoin@protonmail.com**
